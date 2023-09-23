@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">Hello!!! I'm Ravindu Mapatuna,  Associate Software Engineer👨‍💻 Who likes to learn new technologies🚀</div>  
+### <div align="center">Hello!!! I'm Ravindu Mapatuna, Software Engineer👨‍💻 Who likes to learn new technologies🚀</div>  
   
 
-- 🔭 I’m currently working as an Associate Software Engineer at S. P. Solutions (Pvt) Limited  
+- 🔭 I’m currently working as an Software Engineer at S. P. Solutions (Pvt) Limited  
   
 
-- 🌱 I’m currently a 3rd year Software Engineering undergraduate at Sri Lanka Institute of Information and Technology  
+- 🌱 I’m currently a final year Software Engineering undergraduate at Sri Lanka Institute of Information and Technology  
   
 
 - ❓Favorite Technologies : NodeJs, ExpressJs, ReactJs, MongoDB, React Native, Java  
